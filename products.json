@@ -1,0 +1,39 @@
+{
+  "showProducts": [
+    {
+      "name": "سرير خشب مودرن",
+      "details": "سرير خشب قوي وعملي لغرفة النوم",
+      "price": 2500,
+      "image": "https://via.placeholder.com/150",
+      "category": "bedrooms"
+    },
+    {
+      "name": "خزانة ملابس",
+      "details": "خزانة كبيرة مع أرفف متعددة",
+      "price": 1800,
+      "image": "https://via.placeholder.com/150",
+      "category": "bedrooms"
+    },
+    {
+      "name": "طاولة سفرة",
+      "details": "طاولة خشب متينة مع كراسي",
+      "price": 2000,
+      "image": "https://via.placeholder.com/150",
+      "category": "furniture"
+    },
+    {
+      "name": "باب خشب داخلي",
+      "details": "باب خشب عالي الجودة مناسب لجميع الغرف",
+      "price": 1200,
+      "image": "https://via.placeholder.com/150",
+      "category": "doors"
+    },
+    {
+      "name": "شباك خشب",
+      "details": "شباك خشب أنيق مع زجاج شفاف",
+      "price": 900,
+      "image": "https://via.placeholder.com/150",
+      "category": "windows"
+    }
+  ]
+}
